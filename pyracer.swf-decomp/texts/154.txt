@@ -1,0 +1,15 @@
+Collect petrol barrels to keep 
+--- RECORDSEPARATOR ---
+your car  full of fuel
+--- RECORDSEPARATOR ---
+.
+--- RECORDSEPARATOR ---
+If you don
+--- RECORDSEPARATOR ---
+’
+--- RECORDSEPARATOR ---
+t you will run out of 
+--- RECORDSEPARATOR ---
+petrol and the game ends
+--- RECORDSEPARATOR ---
+.
